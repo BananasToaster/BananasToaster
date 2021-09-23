@@ -1,5 +1,5 @@
 # Speedo
-  Hello 👋, Welcome to my profile I'm Speedo, 18 years old and I'm from Taiwan 🇹🇼, I love learning programming language, and I'm now working on my new project PedoYaw for improving my lua skills.
+  Hello 👋, Welcome to my profile I'm Speedo, 18 years old and I'm from Taiwan, I love learning programming language, and I'm now working on my new project PedoYaw for improving my lua skills.
 
 ------
 
